@@ -38,8 +38,8 @@ Thumbs.db
 
 # MY OWN STUFF #
 ################
-/Debug
-/ipch
+Debug/
+ipch/
 .sdf
 .sln
 .suo
